@@ -1,0 +1,20 @@
+{
+  "instituicao": "Banco do Brasil",
+  "categorias": {
+    "fraudes": [
+      "Banco do Brasil fraude",
+      "Banco do Brasil golpe",
+      "Banco do Brasil phishing"
+    ],
+    "engenharia_social": [
+      "Banco do Brasil WhatsApp",
+      "Banco do Brasil gerente",
+      "Banco do Brasil contato interno"
+    ],
+    "vazamentos": [
+      "Banco do Brasil vazamento",
+      "Banco do Brasil dados",
+      "Banco do Brasil credenciais"
+    ]
+  }
+}
